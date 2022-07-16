@@ -20,7 +20,7 @@ I'm Amir ✋ , one of the back-end developers 💻 ,<br>I was born in July 1997 
 
 
 <h1>Who is AMIR?</h1>
-<div style={text-align:center}>
+<div style="text-align:center;">
   <video width="320" height="240" controls autoplay>
     <source src="https://user-images.githubusercontent.com/102484343/179373239-0395447c-429c-412c-a311-a1ef8626672c.mp4" type="video/mp4">
     Your browser does not support the video tag.
