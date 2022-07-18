@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Amir ✋ , one of the back-end developers 💻 ,<br>I was born in July 1997 🎁 and no one knew that one of the most talented soccer player ⚽ is born . <br>I played football until 2017 and for some personal reasons I couldn't continue . <br>so I decided to buy laptop to work and study . <br>I started to be a developer in 2020 and know that developing is my favorite job for ever 🤟. <br>my lifestyle is working out from 10am to 11:30am daily then start to learning and developing until night.<br><br>my favorite programing languages are pyhton  and js . <br>I'm junior for ever because I am enthusiastic to learn more and more . <br><br>"JUNIOR FOR EVER" <br>
+I'm Amir ✋ , one of the back-end developers 💻 ,<br>I was born in July 1997 🎁 and no one knew that one of the most talented soccer player ⚽ is born . <br>I played football until 2017 and for some personal reasons I couldn't continue . <br>so I decided to buy laptop to work and study . <br>I started to be a developer in 2020 and know that developing is my favorite job for ever 🤟. <br>my lifestyle is working out from 10am to 11:30am daily then start to learning and developing until night.<br><br>my favorite programing languages are pyhton  and js . <br>I'm junior for ever because I am enthusiastic about learn more and more . <br><br>"JUNIOR FOR EVER" <br>
 
 
 ## 🌐 Socials:
